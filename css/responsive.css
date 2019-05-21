@@ -3,4 +3,13 @@
     width: 90%;
   }
 
+  /* #social selector to have an absolute position, with an automatic width, 82px from the top, and 4px from the right */
+
+  #social {
+    position: absolute;
+    width: auto;
+    top: 82px;
+    right: 4px;
+  }
+
 }
